@@ -1,0 +1,8 @@
+.react-grid-item.react-grid-placeholder {
+    background-color: #2563eb !important;
+    @apply rounded-lg;
+}
+
+.custom-react-grid-item > div {
+    height: 100%;
+}
